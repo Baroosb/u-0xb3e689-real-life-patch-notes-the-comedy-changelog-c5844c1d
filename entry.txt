@@ -1,0 +1,1 @@
+v7.3.0: fixed a bug where the brain replays an embarrassing moment from 2009 at full volume whenever the shower water hits the ideal temperature.
